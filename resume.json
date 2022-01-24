@@ -1,0 +1,84 @@
+{
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "黄浩鼎",
+    "email": "857442838@qq.com",
+    "mobile": "18291882490",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "positionTitle": ""
+  },
+  "educationList": [
+    {
+      "edu_time": ["2020.09", null],
+      "school": "南京大学",
+      "major": "计算机科学与技术系",
+      "academic_degree": "硕士"
+    },
+    {
+      "edu_time": ["2015.09", "2019.06"],
+      "school": "西安电子科技大学",
+      "major": "电子科学与技术系",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    
+  ],
+  "workExpList": [
+    
+  ],
+  "skillList": [
+    {
+      "skill_name": "Java及相关框架",
+      "skill_desc": "掌握Java编程技术，有良好的代码编写风格；熟悉SSM框架基本用法，对Dubbo有一定了解",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "数据结构、操作系统、计算机网络、计算机组成原理",
+      "skill_desc": "掌握计算机的核心基础知识",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "MySQL",
+      "skill_desc": "熟悉MySQL的基本使用",
+      "skill_level": 70
+    },
+    {
+      "skill_name": "Linux",
+      "skill_desc": "熟悉Linux环境下的编程",
+      "skill_level": 70
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "边缘环境下基于近似计算复用的多节点计算卸载及资源分配",
+      "project_role": "科研项目",
+      "project_time": "",
+      "project_desc": "边缘计算场景下，不同时刻节点的计算结果之间存在一定的相似性，利用这种相似性可以极大地减少计算时延",
+      "project_content": ""
+    },
+    {
+      "project_name": "实现Raft的部分功能",
+      "project_role": "课程设计",
+      "project_time": "",
+      "project_desc": "",
+      "project_content": ""
+    },
+    {
+      "project_name": "Change SQL-腾讯云数据库TDSQL精英挑战赛",
+      "project_role": "比赛经历",
+      "project_time": "",
+      "project_desc": "",
+      "project_content": ""
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 😈"
+  }
+}
