@@ -35,12 +35,12 @@
   "skillList": [
     {
       "skill_name": "Java及相关框架",
-      "skill_desc": "掌握Java编程技术，有良好的代码编写风格；熟悉SSM框架基本用法，对Dubbo有一定了解",
+      "skill_desc": "掌握Java编程技术，有良好的代码编写风格；熟悉SSM框架基本用法",
       "skill_level": 90
     },
     {
       "skill_name": "数据结构、操作系统、计算机网络、计算机组成原理",
-      "skill_desc": "掌握计算机的核心基础知识",
+      "skill_desc": "掌握数据结构、操作系统、计算机网络、计算机组成原理等计算机核心课程知识",
       "skill_level": 90
     },
     {
@@ -56,29 +56,29 @@
   ],
   "projectList": [
     {
-      "project_name": "边缘环境下基于近似计算复用的多节点计算卸载及资源分配",
+      "project_name": "Change SQL-腾讯云数据库TDSQL精英挑战赛",
+      "project_role": "编程比赛",
+      "project_time": "",
+      "project_desc": "该赛题以数据迁移来实现多合一数据归档为切入，实现一个具有分布式TDSQL多源合并能力的迁移程序，支持存量和增量数据迁移，首先需要保证数据的正确性，同时具备鲁棒性和好的性能",
+      "project_content": "1、构思迁移程序的整体框架和解决方案\n2、实现源数据读取代码和部分数据库操作代码"
+    }
+    {
+      "project_name": "边缘环境下基于近似计算复用的计算卸载及资源分配",
       "project_role": "科研项目",
       "project_time": "",
-      "project_desc": "边缘计算场景下，不同时刻节点的计算结果之间存在一定的相似性，利用这种相似性可以极大地减少计算时延",
-      "project_content": ""
+      "project_desc": "边缘计算场景下，不同时刻节点的计算结果之间存在一定的相似性，利用这种相似性可以极大地减少时延",
+      "project_content": "1、研究多节点场景下的近似计算复用\n2、研究近似缓存中缓存命中率和缓存大小的关系"
     },
     {
-      "project_name": "实现Raft的部分功能",
+      "project_name": "基于Raft协议的分布式系统日志一致性实现",
       "project_role": "课程设计",
       "project_time": "",
       "project_desc": "",
       "project_content": ""
     },
-    {
-      "project_name": "Change SQL-腾讯云数据库TDSQL精英挑战赛",
-      "project_role": "比赛经历",
-      "project_time": "",
-      "project_desc": "",
-      "project_content": ""
-    }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 😈"
+    "aboutme_desc": "🌱一个踏实写代码的程序员\n就读于南京大学计算机系分布式计算组，研究领域为边缘计算、计算卸载，乐于接受新挑战，参加过阿里天池比赛和腾讯云挑战赛。\n平时性格乐观温和，有责任感和担当，沟通协调能力出色，与同学、老师相处融洽。"
   }
 }
